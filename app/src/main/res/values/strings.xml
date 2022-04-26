@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AstroDaily</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="filter_names">
+        <item>Relevancy</item>
+        <item>Date</item>
+        <item>Rank</item>
+    </string-array>
+</resources>
