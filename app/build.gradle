@@ -6,9 +6,9 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.example.astrodaily"
+        applicationId "com.astro.astrodaily"
         minSdk 23
-        targetSdk 23
+        targetSdk 32
         versionCode 1
         versionName "1.0"
 
